@@ -1,0 +1,22 @@
+.signInCntr{
+    width: 35%;
+    display: inline-block;
+}
+.logoBox{
+    width: 20%;
+    display: inline-block;
+}
+.logoCntr{
+    background-color: #043672;
+    height: 200px;
+    border: 1px solid #E2E2E2;
+    width: 200px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+}
+.logoCntr img {
+    position: relative;
+    top: 35%;
+    left: 12%;
+    display: block;
+}
